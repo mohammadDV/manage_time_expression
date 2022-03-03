@@ -5,7 +5,7 @@ I used “Chain of Responsibility” and implement this Design pattern with one 
 also I used one trait for calculating repetitive function of classes.
 
 for executing this service it's enough you do these:
--	Command to run migration “php artisan serve”
+-	Command to run “php artisan serve”
 -	Command to run test “php artisan test”
 
 ## Docker image
